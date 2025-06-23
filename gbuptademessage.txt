@@ -1,10 +1,1 @@
-{ "Gold": { "update_code": "8", "reminder_time": "3", "update_version": "v20.36", "com.gbwhatsapp": "https://9aleh.com/gbwhatsapp/", "update_message": " 
-<p>Update Vتحديث « 20.36</p>
-<li>تحديث جديد ممتع</li>
-<li>يحتوي على العديد من المزايا الجديد الرائعة</li>
-<li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
-
-<li>new update</li>
-<li>It contains many great new features</li>
-<li>More important fixes and improvements</li>
-" } }
+{'ver1':'21', 'ver2':'95', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://9aleh.com/gbwhatsapp-mas/'}
